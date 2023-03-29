@@ -65,3 +65,4 @@ describe('Teste o componente <PokemonDetails.js />', () => {
     expect(isCheckedFalse).not.toBeInTheDocument();
   });
 });
+// finalizado
